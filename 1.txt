@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1. Console.WriteLine("Hello, world!");
 2. Console.WriteLine("More text!");
 3. Console.WriteLine("Master only text?");
+4. Console.WriteLine("Greetings, gentlemen!");
+5. Console.WriteLine("WASSUP!!");
+>>>>>>> feature_hello_modification
