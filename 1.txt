@@ -2,4 +2,5 @@ Console.WriteLine("Hello, world!");
 Console.WriteLine("More text!");
 Console.WriteLine("Master only text?");
 
-Console.WriteLine("Greetings, gentlemen!")
+Console.WriteLine("Greetings, gentlemen!");
+Console.WriteLine("WASSUP!!");
